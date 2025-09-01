@@ -1,1 +1,5 @@
-# AI-Chatbot-Ecommerce-Recommender
+
+uvicorn
+```
+uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
+```
